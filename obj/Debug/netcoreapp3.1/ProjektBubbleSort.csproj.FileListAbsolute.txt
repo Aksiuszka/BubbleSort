@@ -1,0 +1,13 @@
+C:\Users\aakaw\source\repos\ProjektBubbleSort\bin\Debug\netcoreapp3.1\ProjektBubbleSort.exe
+C:\Users\aakaw\source\repos\ProjektBubbleSort\bin\Debug\netcoreapp3.1\ProjektBubbleSort.deps.json
+C:\Users\aakaw\source\repos\ProjektBubbleSort\bin\Debug\netcoreapp3.1\ProjektBubbleSort.runtimeconfig.json
+C:\Users\aakaw\source\repos\ProjektBubbleSort\bin\Debug\netcoreapp3.1\ProjektBubbleSort.runtimeconfig.dev.json
+C:\Users\aakaw\source\repos\ProjektBubbleSort\bin\Debug\netcoreapp3.1\ProjektBubbleSort.dll
+C:\Users\aakaw\source\repos\ProjektBubbleSort\bin\Debug\netcoreapp3.1\ProjektBubbleSort.pdb
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.csprojAssemblyReference.cache
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.AssemblyInfoInputs.cache
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.AssemblyInfo.cs
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.dll
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.pdb
+C:\Users\aakaw\source\repos\ProjektBubbleSort\obj\Debug\netcoreapp3.1\ProjektBubbleSort.genruntimeconfig.cache
